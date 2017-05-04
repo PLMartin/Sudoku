@@ -1,5 +1,5 @@
 # Sudoku
-Sudoku, jeu et resolveur de jeu, en java
+Sudoku, jeu et resolveur, en java
 
 Pour executer le programme : 
 
